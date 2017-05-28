@@ -1,4 +1,4 @@
 # SystemProgramming
 System Programming Barcode Application
 
-Developed by Blagoy Nikolov and Nathalie Hristova
+Developed by Blagoy Nikolov and Natalie Hristova
